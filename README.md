@@ -7,6 +7,11 @@ Sales data Analysis for AtliQ Hardwares
 - Empower businesses to monitor and evaluate their sales activities and performance.
 - Identify sales patterns and track key performance indicators (KPIs).
 - Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+## Insights:
+- Customer Performance Report shows Amazon customer is consistent in contributing to Net Sales and has shown 100% increase in 2021 than previous year.
+- Other than new expansion of business in Nova is showing improvement in sales.
+- Overall Net Sales performance in 2021 is 100% more than 2020.
+- Market Performance of highlighly contributing countries like India and USA has reached its target and Overall market performance compared to target is 8% less.
 
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
